@@ -1,7 +1,7 @@
 {
-"name":"Neobird",
-"short_name":"Neobird",
-"description":"Neobird for OpenWRT by 2smile.",
+"name":"Neobird-passwall",
+"short_name":"Neobird-passwall",
+"description":"Neobird-passwall for OpenWRT by 2smile.",
 "start_url":"/",
 "scope": "/",
 "orientation":"portrait",
